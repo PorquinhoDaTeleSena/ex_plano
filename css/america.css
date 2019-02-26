@@ -80,7 +80,7 @@
     animation: rotation 3s infinite linear;
 }
 
-/*@keyframes rotation {
+@keyframes rotation {
 		to {
 				-webkit-transform: rotate(0deg);
 		}
@@ -88,4 +88,3 @@
 				-webkit-transform: rotate(359deg);
         }
 }
-*/
